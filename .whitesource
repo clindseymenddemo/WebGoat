@@ -1,3 +1,6 @@
 {
-  "settingsInheritedFrom": "clindseymenddemo/whitesource-config@main"
+  "settingsInheritedFrom": "clindseymenddemo/whitesource-config@main",
+  "remediateSettings": {
+    "extends": [":disableRateLimiting"]
+  }
 }
