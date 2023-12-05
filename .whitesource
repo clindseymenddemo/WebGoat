@@ -3,5 +3,4 @@
   "remediateSettings": {
     "extends": [":disableRateLimiting"]
   }
-
 }
